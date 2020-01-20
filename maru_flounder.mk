@@ -32,7 +32,7 @@ TARGET_SCREEN_WIDTH := 1536
 
 # Inline kernel building
 TARGET_KERNEL_SOURCE := kernel/htc/flounder
-TARGET_KERNEL_CONFIG := maru_flounder_defconfig
+TARGET_KERNEL_CONFIG := maru-flounder_defconfig
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 
 # Extra Packages
